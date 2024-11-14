@@ -6,7 +6,7 @@ int numero1,numero2,numero3; //Aqui crio a variável dos 3 inteiros
 //CODE BY JVS_MAD_HATTER *_*
 return (0);}
 
-/* QUESTÃO:
+/* QUESTAO:
 Soma de três inteiros
 Imagem meteriologica
 Imagem meteriologica
